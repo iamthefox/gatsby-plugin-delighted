@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Gatsby plugin to add delighted nps survey onto a site",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/iamthefox/gatsby-plugin-delighted/issues"
+  },
+  "repository": "https://github.com/iamthefox/gatsby-plugin-delighted",
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "react": "^16.7.0"
